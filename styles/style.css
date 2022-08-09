@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+    font: bold 18px sans-serif;
+    color: grey;
+    border: 5px solid grey;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
